@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Collections;
+
+namespace ArrayList
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList data =new ArrayList();
+            data.Add(45);
+            data.Add(23);
+            data.Add("abc");
+            data.Add(47);
+            data.Add(47);
+            data.Add(47);
+            data.Add(47);
+            foreach(object x in data)
+            {
+                Console.WriteLine(x);
+            }
+
+            Hashtable mydata=new Hashtable();
+            mydata.Add("Name", "Sanjay Singh");
+            mydata.Add("Id", 120);
+            mydata.Add("Salary", 120000);
+            mydata.Add("Depart", "Developer");
+            foreach(string x in mydata.Keys)
+            {
+                Console.WriteLine(mydata[x]);
+            }
+
+            Stack data = new Stack();
+            data.push()
+
+
+
+
+            Console.ReadKey();
+        }
+    }
+}

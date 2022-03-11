@@ -1,7 +1,0 @@
-E:\C#\Program\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe.config
-E:\C#\Program\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe
-E:\C#\Program\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.pdb
-E:\C#\Program\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.csproj.AssemblyReference.cache
-E:\C#\Program\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.csproj.CoreCompileInputs.cache
-E:\C#\Program\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.exe
-E:\C#\Program\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.pdb
